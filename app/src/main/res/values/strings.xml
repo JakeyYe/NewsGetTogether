@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">新闻聚合</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">设置</string>
+    <string name="mode">日间模式</string>
+    <string name="blogAndSearch">看博客</string>
+    <string name="search">搜索</string>
+    <string name="lookPhoto">去看图</string>
+    <string name="homePage">首页</string>
+    <string name="fab_search_hint">输入URL搜索查看博客</string>
+
+    <string name="action_share">分享</string>
+
+
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.jude.easyrecyclerview.EasyRecyclerView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/recyclerView"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    app:recyclerClipToPadding="true"
+    app:recyclerPaddingBottom="6dp"
+    app:recyclerPaddingLeft="4dp"
+    app:recyclerPaddingRight="4dp"
+    app:recyclerPaddingTop="2dp"
+    app:layout_empty="@layout/view_empty"
+    app:layout_progress="@layout/view_progress"/>
