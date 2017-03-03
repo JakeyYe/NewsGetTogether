@@ -4,8 +4,10 @@
 
  实际效果看下面图片展示（文件中包含apk文件，可安装测试）： 
 
- ![photo1](art\photo1.jpg)
+ ![photo1](https://github.com/JakeyYe/NewsGetTogether/blob/master/art/photo1.jpg)
 
- ![ ![photo3](art\photo3.jpg)photo4](art\photo4.jpg)
+  ![photo3](https://github.com/JakeyYe/NewsGetTogether/blob/master/art/photo2.jpg)
 
- ![ ![photo3](art\photo3.jpg)photo2](art\photo2.jpg) ![photo3](art\photo3.jpg)
+ ![photo3](https://github.com/JakeyYe/NewsGetTogether/blob/master/art/photo3.jpg) 
+
+![photo3](https://github.com/JakeyYe/NewsGetTogether/blob/master/art/photo4.jpg)
